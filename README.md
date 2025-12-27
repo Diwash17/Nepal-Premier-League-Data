@@ -1,4 +1,4 @@
-# Nepal Premier League (NPL) Dataset 2024/25
+# Nepal Premier League (NPL) Dataset 
 
 This dataset contains detailed information about the Nepal Premier League (NPL) 2024/25 season. It includes high-level tournament summaries and detailed ball-by-ball data for each match, enabling comprehensive analysis.
 
